@@ -159,7 +159,7 @@ async function connectToWA() {
       conn.sendMessage(conn.user.id, {
         text: up,
         contextInfo: {
-          mentionedJid: ["94717775628@s.whatsapp.net"], // specify mentioned JID(s) if any
+          mentionedJid: ["94704206946@s.whatsapp.net"], // specify mentioned JID(s) if any
           groupMentions: [],
           forwardingScore: 999,
           isForwarded: true,
@@ -174,7 +174,7 @@ async function connectToWA() {
             mediaType: 1,
             sourceUrl: "https://github.com/senuff123",
             thumbnailUrl:
-              "https://raw.githubusercontent.com/RASH-DATA/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg", // This should match the image URL provided above
+              "https://github.com/senuff1234/Senuwa-md-new/blob/main/images/Senuwa%20md.jpg?raw=true", // This should match the image URL provided above
             renderLargerThumbnail: false,
             showAdAttribution: true,
           },
