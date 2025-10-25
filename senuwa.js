@@ -172,7 +172,7 @@ async function connectToWA() {
             title: "𝗦𝗘𝗡𝗨𝗪𝗔-𝗠𝗗 𝗑ᴾᴿᴼ 💚",
             body: " ©𝐌𝐑 𝐑𝐀𝐒𝐇𝐌𝐈𝐊𝐀 𝐎𝐅𝐂 💚",
             mediaType: 1,
-            sourceUrl: "https://github.com/Mrrashmika",
+            sourceUrl: "https://github.com/senuff123",
             thumbnailUrl:
               "https://raw.githubusercontent.com/RASH-DATA/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg", // This should match the image URL provided above
             renderLargerThumbnail: false,
@@ -401,7 +401,7 @@ async function connectToWA() {
 }
 if (!app) return;
 app.get("/", (req, res) => {
-  res.send("hey I am alive, Queen_Anju Is started✅");
+  res.send("hey I am alive, Senuwa_md Is started✅");
 });
 app.listen(port, () =>
   console.log(`Server listening on port http://localhost:${port}`)
