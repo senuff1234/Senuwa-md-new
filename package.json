@@ -2,9 +2,9 @@
   "name": "Senuwa_md",
   "version": "4",
   "description": "A Simple WhatsApp bot created By Gaming Senuwa",
-  "main": "Senuwa.js",
+  "main": "senuwa.js",
   "scripts": {
-    "start": "pm2 start Senuwa.js --deep-monitoring --attach --name Senuwa_md",
+    "start": "pm2 start senuwa.js --deep-monitoring --attach --name Senuwa_md",
     "stop": "pm2 stop Senuwa_md",
     "restart": "pm2 restart Senuwa_md"
   },
